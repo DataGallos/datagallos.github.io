@@ -9,7 +9,7 @@ name: DataGallos Team
 description: Making data science from Zacatecas, Mexico
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/datagallos_logo.png
+avatar: http://datagallos.github.io/images/datagallos_logo.png 
 
 #
 # Flags below are optional
