@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is the official and unformal blog from DataGallos Team, a group of Software
+Engineering professionals from Zacatecas, Mexico who is making some great
+Big Data and Data Science projects.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+We blog about data science, data engineering, and how big data could help us to
+make a better world.
